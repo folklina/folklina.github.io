@@ -1,0 +1,52 @@
+body{
+    background-color: #24b4ac;
+}
+table {
+    border: 0.1px solid #24b4ac;
+    width: 600px;
+    height: auto;
+}
+th {
+    background-color:black;
+    color: white;
+    text-align: left;
+}
+td {
+    color: white;
+    background-color: #145dbc;
+    text-align: left;
+    height: 20px;
+    width: 50px;
+}
+fieldset {
+    background-color: #145c5c;
+    border: 3px solid black;
+}
+legend {
+    background-color: black;
+    color: white;
+}
+#botaovermelho {
+    color: white;
+    background-color: #f84404;
+    width: 96px;
+    height: 30px;
+    border: none;
+}
+#botaoverde {
+    color: white;
+    background-color: #4d9a71;
+    width: 96px;
+    height: 30px;
+    border: none;
+}
+label {
+    color: white;
+    
+}
+h1 {
+text-align: center;
+}
+#aa {
+    color: black;
+}
